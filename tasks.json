@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "description": "Buy groceries and cook dinner",
+    "status": "done",
+    "createdAt": "2025-02-17T19:57:43.012Z",
+    "updatedAt": "2025-02-17T19:58:16.231Z"
+  },
+  {
+    "id": "2",
+    "description": "Comprar pão",
+    "status": "todo",
+    "createdAt": "2025-02-17T19:57:58.120Z",
+    "updatedAt": "2025-02-17T19:57:58.122Z"
+  }
+]
