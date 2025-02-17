@@ -1,4 +1,6 @@
-# Task Tracker CLI(https://roadmap.sh/projects/task-tracker)
+https://roadmap.sh/projects/task-tracker
+
+# Task Tracker CLI
 
 Task Tracker CLI is a command-line tool for managing tasks simply and efficiently.
 
