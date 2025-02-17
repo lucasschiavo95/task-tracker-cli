@@ -19,7 +19,7 @@ Task Tracker CLI is a command-line tool for managing tasks simply and efficientl
 # Install dependencies:
  ```sh
  npm install
-
+```
 
 # Adding a new task
 task-cli add "Buy groceries"
